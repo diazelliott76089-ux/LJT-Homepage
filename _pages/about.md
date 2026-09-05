@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/Vicent0205) (advised by Professor Junxian He). I am broadly interested in natural language processing and machine learning, with a particular focus on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, advised by Professor Junxian He. I am broadly interested in natural language processing and machine learning, with a particular focus on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
 I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. During my undergraduate studies I was fortunate to be advised by Professor Junxian He, and I continue to work with him as my Ph.D. supervisor. Outside of my academic research, I have spent time as a research intern at Shanghai AI Lab, Tencent WXG, and MINIMAX.
 
@@ -45,13 +45,11 @@ Awards
 Publications
 ------
 
-(*) denotes equal contribution -- not used; first authorship noted below.
+(*) denotes first-authorship.
 
 **2025**
 
-<small>*Fully synthesized, verifiable reasoning data for learning logical reasoning and beyond.*</small>
-
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) 
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
    Authors: **Junteng Liu\***, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *First author.* Published on arXiv. Has GitHub code repository.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
@@ -88,5 +86,5 @@ Contact
 *   Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 *   GitHub: [Vicent0205](https://github.com/Vicent0205)
 *   X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
-*   Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+*   Google Scholar: [scholar.google.com](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 *   Advisor: Professor Junxian He
