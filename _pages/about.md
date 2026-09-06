@@ -23,13 +23,12 @@ My research focuses on natural language processing and machine learning.
 <hr>
 
 ### News
-* **[2024]** Graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
-* **[2023]** Received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University.
+* **[June 2024]** Graduated from Shanghai Jiao Tong University (SJTU).
 
 <hr>
 
 ### Publications
-See [my publications](/publications/) for a complete list, or find the publications recorded below.
+See [my publications](/publications/) for a complete list. The publications are also recorded below.
 <br>
 
 <div class="publications">
@@ -50,7 +49,7 @@ See [my publications](/publications/) for a complete list, or find the publicati
 * **Research Intern**, Shanghai AI Lab (June 2023 - December 2023), advised by Prof. Yu Cheng
 
 ### Awards
-* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University (2023)
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 <hr>
 
