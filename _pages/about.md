@@ -28,7 +28,7 @@ My research focuses on natural language processing and machine learning.
 <hr>
 
 ### Publications
-See [my publications](/publications/) for a complete list. The publications are also recorded below.
+See [my publications]({{ base_path }}/publications/) for a complete list. The publications are also recorded below.
 <br>
 
 <div class="publications">
